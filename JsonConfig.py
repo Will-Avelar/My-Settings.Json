@@ -9,5 +9,5 @@
         "python": "clear ; python -u",
     },
     "code-runner.runInTerminal": true,
-    "code-runner.ignoreSelection": true
+    "code-runner.ignoreSelection": true,
 }
